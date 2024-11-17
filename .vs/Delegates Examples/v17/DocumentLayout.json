@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Delegates Examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|d:\\delegates examples\\generic delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|solutionrelative:generic delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|d:\\delegates examples\\anonymous methods\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|solutionrelative:anonymous methods\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|d:\\delegates examples\\anonymous methods\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|solutionrelative:anonymous methods\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|d:\\delegates examples\\anonymous methods\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|solutionrelative:anonymous methods\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|d:\\delegates examples\\anonymous methods\\anonymous methods.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|solutionrelative:anonymous methods\\anonymous methods.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|d:\\delegates examples\\anonymous methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9404DD9-A21D-493A-8B3B-844DA7AB3CE3}|Anonymous Methods\\Anonymous Methods.csproj|solutionrelative:anonymous methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59A1D09-DE80-4139-BE41-40FB5ADE7488}|MultiCastDelegates\\MultiCastDelegates.csproj|d:\\delegates examples\\multicastdelegates\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59A1D09-DE80-4139-BE41-40FB5ADE7488}|MultiCastDelegates\\MultiCastDelegates.csproj|solutionrelative:multicastdelegates\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59A1D09-DE80-4139-BE41-40FB5ADE7488}|MultiCastDelegates\\MultiCastDelegates.csproj|d:\\delegates examples\\multicastdelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59A1D09-DE80-4139-BE41-40FB5ADE7488}|MultiCastDelegates\\MultiCastDelegates.csproj|solutionrelative:multicastdelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59A1D09-DE80-4139-BE41-40FB5ADE7488}|MultiCastDelegates\\MultiCastDelegates.csproj|d:\\delegates examples\\multicastdelegates\\multicastdelegates.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A59A1D09-DE80-4139-BE41-40FB5ADE7488}|MultiCastDelegates\\MultiCastDelegates.csproj|solutionrelative:multicastdelegates\\multicastdelegates.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514E4D72-5E00-4727-A323-277C3049FEA1}|Delegates Examples\\Delegates Examples.csproj|d:\\delegates examples\\delegates examples\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514E4D72-5E00-4727-A323-277C3049FEA1}|Delegates Examples\\Delegates Examples.csproj|solutionrelative:delegates examples\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514E4D72-5E00-4727-A323-277C3049FEA1}|Delegates Examples\\Delegates Examples.csproj|d:\\delegates examples\\delegates examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514E4D72-5E00-4727-A323-277C3049FEA1}|Delegates Examples\\Delegates Examples.csproj|solutionrelative:delegates examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B8ADA6-C82A-4C01-A7ED-91AA28A4B762}|Lambda Examples\\Lambda Examples.csproj|d:\\delegates examples\\lambda examples\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B8ADA6-C82A-4C01-A7ED-91AA28A4B762}|Lambda Examples\\Lambda Examples.csproj|solutionrelative:lambda examples\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B8ADA6-C82A-4C01-A7ED-91AA28A4B762}|Lambda Examples\\Lambda Examples.csproj|d:\\delegates examples\\lambda examples\\lambda examples.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F5B8ADA6-C82A-4C01-A7ED-91AA28A4B762}|Lambda Examples\\Lambda Examples.csproj|solutionrelative:lambda examples\\lambda examples.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B8ADA6-C82A-4C01-A7ED-91AA28A4B762}|Lambda Examples\\Lambda Examples.csproj|d:\\delegates examples\\lambda examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B8ADA6-C82A-4C01-A7ED-91AA28A4B762}|Lambda Examples\\Lambda Examples.csproj|solutionrelative:lambda examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|d:\\delegates examples\\generic delegates\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|solutionrelative:generic delegates\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|d:\\delegates examples\\generic delegates\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|solutionrelative:generic delegates\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|d:\\delegates examples\\generic delegates\\generic delegates.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|solutionrelative:generic delegates\\generic delegates.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|d:\\delegates examples\\generic delegates\\generic delegates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A335671-FEE9-4EDB-8D9E-7FC6D02AFDBD}|Generic delegates\\Generic delegates.csproj|solutionrelative:generic delegates\\generic delegates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514E4D72-5E00-4727-A323-277C3049FEA1}|Delegates Examples\\Delegates Examples.csproj|d:\\delegates examples\\delegates examples\\delegates examples.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{514E4D72-5E00-4727-A323-277C3049FEA1}|Delegates Examples\\Delegates Examples.csproj|solutionrelative:delegates examples\\delegates examples.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59A1D09-DE80-4139-BE41-40FB5ADE7488}|MultiCastDelegates\\MultiCastDelegates.csproj|d:\\delegates examples\\multicastdelegates\\multicastdelegates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A59A1D09-DE80-4139-BE41-40FB5ADE7488}|MultiCastDelegates\\MultiCastDelegates.csproj|solutionrelative:multicastdelegates\\multicastdelegates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Generic delegates.csproj",
+              "DocumentMoniker": "D:\\Delegates Examples\\Generic delegates\\Generic delegates.csproj",
+              "RelativeDocumentMoniker": "Generic delegates\\Generic delegates.csproj",
+              "ToolTip": "D:\\Delegates Examples\\Generic delegates\\Generic delegates.csproj",
+              "RelativeToolTip": "Generic delegates\\Generic delegates.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T16:21:57.393Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultiCastDelegates",
+              "DocumentMoniker": "D:\\Delegates Examples\\MultiCastDelegates\\MultiCastDelegates.csproj",
+              "RelativeDocumentMoniker": "MultiCastDelegates\\MultiCastDelegates.csproj",
+              "ToolTip": "D:\\Delegates Examples\\MultiCastDelegates\\MultiCastDelegates.csproj",
+              "RelativeToolTip": "MultiCastDelegates\\MultiCastDelegates.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T03:57:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\MultiCastDelegates\\Class1.cs",
+              "RelativeDocumentMoniker": "MultiCastDelegates\\Class1.cs",
+              "ToolTip": "D:\\Delegates Examples\\MultiCastDelegates\\Class1.cs",
+              "RelativeToolTip": "MultiCastDelegates\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:53:36.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Anonymous Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Anonymous Methods\\Program.cs",
+              "ToolTip": "D:\\Delegates Examples\\Anonymous Methods\\Program.cs",
+              "RelativeToolTip": "Anonymous Methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:44:54.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Anonymous Methods\\Class1.cs",
+              "RelativeDocumentMoniker": "Anonymous Methods\\Class1.cs",
+              "ToolTip": "D:\\Delegates Examples\\Anonymous Methods\\Class1.cs",
+              "RelativeToolTip": "Anonymous Methods\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:16:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anonymous Methods",
+              "DocumentMoniker": "D:\\Delegates Examples\\Anonymous Methods\\Anonymous Methods.csproj",
+              "RelativeDocumentMoniker": "Anonymous Methods\\Anonymous Methods.csproj",
+              "ToolTip": "D:\\Delegates Examples\\Anonymous Methods\\Anonymous Methods.csproj",
+              "RelativeToolTip": "Anonymous Methods\\Anonymous Methods.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T05:26:32.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Anonymous Methods\\Class2.cs",
+              "RelativeDocumentMoniker": "Anonymous Methods\\Class2.cs",
+              "ToolTip": "D:\\Delegates Examples\\Anonymous Methods\\Class2.cs",
+              "RelativeToolTip": "Anonymous Methods\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:28:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Anonymous Methods\\Class3.cs",
+              "RelativeDocumentMoniker": "Anonymous Methods\\Class3.cs",
+              "ToolTip": "D:\\Delegates Examples\\Anonymous Methods\\Class3.cs",
+              "RelativeToolTip": "Anonymous Methods\\Class3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:30:31.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Generic delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Generic delegates\\Program.cs",
+              "ToolTip": "D:\\Delegates Examples\\Generic delegates\\Program.cs",
+              "RelativeToolTip": "Generic delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:11:21.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Delegates Examples\\Class1.cs",
+              "RelativeDocumentMoniker": "Delegates Examples\\Class1.cs",
+              "ToolTip": "D:\\Delegates Examples\\Delegates Examples\\Class1.cs",
+              "RelativeToolTip": "Delegates Examples\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:20:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\MultiCastDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "MultiCastDelegates\\Program.cs",
+              "ToolTip": "D:\\Delegates Examples\\MultiCastDelegates\\Program.cs",
+              "RelativeToolTip": "MultiCastDelegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:45:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Delegates Examples\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates Examples\\Program.cs",
+              "ToolTip": "D:\\Delegates Examples\\Delegates Examples\\Program.cs",
+              "RelativeToolTip": "Delegates Examples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:40:01.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Lambda Examples\\Class1.cs",
+              "RelativeDocumentMoniker": "Lambda Examples\\Class1.cs",
+              "ToolTip": "D:\\Delegates Examples\\Lambda Examples\\Class1.cs",
+              "RelativeToolTip": "Lambda Examples\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:14:52.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Generic delegates\\Class1.cs",
+              "RelativeDocumentMoniker": "Generic delegates\\Class1.cs",
+              "ToolTip": "D:\\Delegates Examples\\Generic delegates\\Class1.cs",
+              "RelativeToolTip": "Generic delegates\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:56:08.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lambda Examples",
+              "DocumentMoniker": "D:\\Delegates Examples\\Lambda Examples\\Lambda Examples.csproj",
+              "RelativeDocumentMoniker": "Lambda Examples\\Lambda Examples.csproj",
+              "ToolTip": "D:\\Delegates Examples\\Lambda Examples\\Lambda Examples.csproj",
+              "RelativeToolTip": "Lambda Examples\\Lambda Examples.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T05:21:43.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Lambda Examples\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda Examples\\Program.cs",
+              "ToolTip": "D:\\Delegates Examples\\Lambda Examples\\Program.cs",
+              "RelativeToolTip": "Lambda Examples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:03:21.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "D:\\Delegates Examples\\Generic delegates\\Class2.cs",
+              "RelativeDocumentMoniker": "Generic delegates\\Class2.cs",
+              "ToolTip": "D:\\Delegates Examples\\Generic delegates\\Class2.cs",
+              "RelativeToolTip": "Generic delegates\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:22:26.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Generic delegates",
+              "DocumentMoniker": "D:\\Delegates Examples\\Generic delegates\\Generic delegates.csproj",
+              "RelativeDocumentMoniker": "Generic delegates\\Generic delegates.csproj",
+              "ToolTip": "D:\\Delegates Examples\\Generic delegates\\Generic delegates.csproj",
+              "RelativeToolTip": "Generic delegates\\Generic delegates.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T16:05:57.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MultiCastDelegates.csproj",
+              "DocumentMoniker": "D:\\Delegates Examples\\MultiCastDelegates\\MultiCastDelegates.csproj",
+              "RelativeDocumentMoniker": "MultiCastDelegates\\MultiCastDelegates.csproj",
+              "ToolTip": "D:\\Delegates Examples\\MultiCastDelegates\\MultiCastDelegates.csproj",
+              "RelativeToolTip": "MultiCastDelegates\\MultiCastDelegates.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T03:53:28.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delegates Examples",
+              "DocumentMoniker": "D:\\Delegates Examples\\Delegates Examples\\Delegates Examples.csproj",
+              "RelativeDocumentMoniker": "Delegates Examples\\Delegates Examples.csproj",
+              "ToolTip": "D:\\Delegates Examples\\Delegates Examples\\Delegates Examples.csproj",
+              "RelativeToolTip": "Delegates Examples\\Delegates Examples.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T15:26:57.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
